@@ -1,0 +1,4 @@
+nbproject
+.vagrant
+/htdocs/*
+.git
